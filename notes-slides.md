@@ -10,6 +10,9 @@ slideOptions:
 
 # Hello :hand:
 
+[![hackmd-github-sync-badge](https://hackmd.io/rd7ivXfwTUOY5Jl1hw7D7A/badge)](https://hackmd.io/rd7ivXfwTUOY5Jl1hw7D7A)
+
+
 <!-- .slide: data-background="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" -->
 
 ----
