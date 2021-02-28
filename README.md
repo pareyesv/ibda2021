@@ -18,6 +18,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/MT-G"><img src="https://avatars.githubusercontent.com/u/61514712?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MT-G</b></sub></a><br /><a href="#content-MT-G" title="Content">🖋</a></td>
+    <td align="center"><a href="https://pareyesv.github.io"><img src="https://avatars.githubusercontent.com/u/7954142?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pareyesv</b></sub></a><br /><a href="#content-pareyesv" title="Content">🖋</a></td>
   </tr>
 </table>
 
