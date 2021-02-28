@@ -1,6 +1,29 @@
 # ibda2021
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Notes/slides and notebooks for the course [PATC: Introduction to Big Data Analytics 2021 - Practical Data Analytics for Solving Real World Problems](https://www.bsc.es/education/training/patc-courses/online-patc-introduction-big-data-analytics/agenda)
 
 - [notes](https://hackmd.io/@pareyesv/ibda2021?type=view)
 - [slides mode](https://hackmd.io/@pareyesv/ibda2021?type=slide)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://pareyesv.github.io"><img src="https://avatars.githubusercontent.com/u/7954142?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pareyesv</b></sub></a><br /><a href="#content-pareyesv" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
